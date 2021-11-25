@@ -1,0 +1,12 @@
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.Form1.resources
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.Ordenamiento.resources
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.pdb
+C:\Users\Dixon Blandon\Desktop\Practica\Practica\obj\Debug\Practica.Arboles.resources
